@@ -9,3 +9,5 @@
 3. 本库由系统自动维护，这意味我们不受理任何 issues, pull request。如果您有相关问题，请通过电邮或者工单系统向我们反馈。
 
 其他条款待补充。
+
+mksql.php 读取本地json,导入数据到本地数据库 运行  php mksql.php
